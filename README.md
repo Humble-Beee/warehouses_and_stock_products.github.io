@@ -32,3 +32,5 @@ Here are some test cases for your reference:
 • A-1, B-1, C-1 will give the output as 78
 
 • A-1, B-1, C-1, D-1 will give the output as 168
+
+link of webpage: https://humble-beee.github.io/warehouses_and_stock_products.github.io/
